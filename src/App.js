@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BookOpen, Play, Loader2, FileText, Music, Download } from 'lucide-react';
+import { BookOpen, Play, Loader2, FileText } from 'lucide-react';
 
 // O TEU LINK DO RENDER JÁ CONFIGURADO
 const API_URL = "https://book-api-ok1c.onrender.com"; 
